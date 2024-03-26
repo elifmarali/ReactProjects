@@ -6,3 +6,8 @@
 
 ## Random Number Generation
 <img width="1440" alt="Ekran Resmi 2024-02-28 16 23 07" src="https://github.com/elifmarali/ReactProjects/assets/71133148/5ec5f015-c871-40b6-a4ba-f795cdcb21fb">
+
+## Course Shopping App with Redux 
+Course shopping application was made using redux with a single slice
+<img width="1440" alt="Ekran Resmi 2024-03-26 17 13 49" src="https://github.com/elifmarali/ReactProjects/assets/71133148/fafa76f1-92b1-49ab-9d07-796563110af0">
+<img width="1440" alt="Ekran Resmi 2024-03-26 17 13 53" src="https://github.com/elifmarali/ReactProjects/assets/71133148/0c9bd71c-f269-4879-9afe-dfd63cd0ef98">
